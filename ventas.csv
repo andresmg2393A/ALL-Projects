@@ -1,0 +1,13 @@
+fecha,producto,categoria,cantidad,precio_unitario,vendedor,region
+2026-10-01,Laptop HP 15,Computadoras,2,650.0,Ana López,Panamá
+2026-10-01,Mouse Logitech,Periféricos,5,25.5,Carlos Ruiz,Colón
+2026-10-02,Monitor Samsung 24,Monitores,3,180.0,Ana López,Panamá
+2026-10-02,SSD 1TB,Almacenamiento,4,95.0,María Torres,Chiriquí
+2026-10-03,Teclado Mecánico,Periféricos,2,75.0,Carlos Ruiz,Colón
+2026-10-03,Laptop Dell XPS,Computadoras,1,1200.0,Ana López,Panamá
+2026-10-04,Mouse Logitech,Periféricos,8,25.5,María Torres,Chiriquí
+2026-10-04,Monitor LG 27,Monitores,2,250.0,Carlos Ruiz,Colón
+2026-10-05,SSD 1TB,Almacenamiento,6,95.0,Ana López,Panamá
+2026-10-05,Laptop HP 15,Computadoras,1,650.0,María Torres,Chiriquí
+2026-10-05,Teclado Mecánico,Periféricos,3,75.0,Carlos Ruiz,Colón
+2026-10-05,Auriculares Sony,Audio,4,120.0,Ana López,Panamá

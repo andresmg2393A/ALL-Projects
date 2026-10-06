@@ -1,0 +1,32 @@
+======================================================================
+       REPORTE DE VENTAS - TechStore Panamá
+       Generado: 2026-10-06 01:44:12
+======================================================================
+
+▶ RESUMEN GENERAL
+   Total de transacciones : 12
+   Unidades vendidas      : 41
+   Ingresos totales       : $6,326.50
+   Ticket promedio        : $527.21
+   Producto más vendido   : Mouse Logitech (13 uds)
+
+▶ VENTAS POR CATEGORÍA
+   Computadoras             4 uds   $  3,150.00
+   Monitores                5 uds   $  1,040.00
+   Almacenamiento          10 uds   $    950.00
+   Periféricos             18 uds   $    706.50
+   Audio                    4 uds   $    480.00
+
+▶ DESEMPEÑO POR VENDEDOR
+   Ana López               16 uds   $  4,090.00
+   María Torres            13 uds   $  1,234.00
+   Carlos Ruiz             12 uds   $  1,002.50
+
+▶ VENTAS POR REGIÓN
+   Panamá                  16 uds   $  4,090.00
+   Chiriquí                13 uds   $  1,234.00
+   Colón                   12 uds   $  1,002.50
+
+======================================================================
+Este reporte puede importarse fácilmente a Power BI, Excel o Google Sheets.
+======================================================================
