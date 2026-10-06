@@ -1,0 +1,6 @@
+id,nombre,categoria,cantidad,precio_unitario,ultima_actualizacion
+1,Laptop HP 15,Computadoras,25,650.0,2026-10-06
+2,Mouse Logitech,Periféricos,8,25.5,2026-10-06
+3,Monitor Samsung 24,Monitores,15,180.0,2026-10-06
+4,Teclado Mecánico,Periféricos,5,75.0,2026-10-06
+5,SSD 1TB,Almacenamiento,30,95.0,2026-10-06
