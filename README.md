@@ -29,7 +29,7 @@ Análisis de datos · Automatización · Sistemas de información · Desarrollo 
 
 |Proyecto|Descripción|Tecnologías|
 |-|-|-|
-|[**InventarioSmart**](https://github.com/TU_USUARIO/inventario-smart)|Sistema de control de inventario con alertas de stock bajo y cálculo de valor total|Python, CSV|
+|[**InventarioSmart**]([https://github.com/TU_USUARIO/inventario-smart](https://github.com/andresmg2393A/Andres-Llerena-Projects/tree/main/inventario-smart)|Sistema de control de inventario con alertas de stock bajo y cálculo de valor total|Python, CSV|
 |[**Analizador de Ventas**](https://github.com/TU_USUARIO/analizador-ventas)|Generador de reportes de ventas y exportador de datos listos para Power BI|Python, CSV|
 
 \---
