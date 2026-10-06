@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy [Tu Nombre Completo]
+# 👋 ¡Hola! Soy Andres Llerena
 
-### Estudiante de Ingeniería de Sistemas Computacionales | Universidad Tecnológica de Panamá
+### Estudiante de Licenciatura en redes Informaticas | Universidad Tecnológica de Panamá
 
 ---
 
@@ -8,7 +8,7 @@
 
 Soy un estudiante apasionado por el desarrollo de software, el análisis de datos y la creación de soluciones tecnológicas prácticas. Me enfoco en construir herramientas simples pero útiles que resuelvan problemas reales de las empresas, especialmente en el ámbito del retail y la gestión de información.
 
-Actualmente estoy fortaleciendo mi **marca personal profesional** en la era digital, combinando habilidades técnicas con una presencia online clara y profesional.
+Actualmente estoy fortaleciendo mi **marca personal profesional** , combinando habilidades técnicas con una presencia online clara y profesional.
 
 ---
 
@@ -36,9 +36,9 @@ Análisis de datos · Automatización · Sistemas de información · Desarrollo 
 
 ## 📫 Contacto
 
-- 📧 Email: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- 🌐 Portafolio / CV Digital: [enlace a VisualCV o Canva]
+- 📧 Email: (andresmg2393@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/tu-perfil](www.linkedin.com/in/andres-llerena-a4152a196)
+- 🌐 Portafolio / CV Digital: (https://app.visualcv.com/cvs/9808604)
 
 ---
 
